@@ -1,0 +1,2 @@
+# vanam
+autoupdate
